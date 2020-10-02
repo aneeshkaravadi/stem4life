@@ -1,0 +1,19 @@
+{
+  "name": "stem4life",
+  "version": "1.0.0",
+  "description": "A website that suggests the experiments that you can do based on the materials you have.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneeshkaravadi/stem4life.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneeshkaravadi/stem4life/issues"
+  },
+  "homepage": "https://github.com/aneeshkaravadi/stem4life#readme"
+}
